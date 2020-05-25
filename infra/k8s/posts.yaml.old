@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: tatianagrigorieva/posts:0.0.1
+      image: grita/posts:0.0.1
